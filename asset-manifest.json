@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Navaabs-Website/static/css/main.ddb7d47b.chunk.css",
+    "main.js": "/Navaabs-Website/static/js/main.ca90bf54.chunk.js",
+    "main.js.map": "/Navaabs-Website/static/js/main.ca90bf54.chunk.js.map",
+    "runtime-main.js": "/Navaabs-Website/static/js/runtime-main.c5a27726.js",
+    "runtime-main.js.map": "/Navaabs-Website/static/js/runtime-main.c5a27726.js.map",
+    "static/css/2.5a510433.chunk.css": "/Navaabs-Website/static/css/2.5a510433.chunk.css",
+    "static/js/2.0f9d7087.chunk.js": "/Navaabs-Website/static/js/2.0f9d7087.chunk.js",
+    "static/js/2.0f9d7087.chunk.js.map": "/Navaabs-Website/static/js/2.0f9d7087.chunk.js.map",
+    "index.html": "/Navaabs-Website/index.html",
+    "precache-manifest.729b0c2f99d2fb35186295c5caabc908.js": "/Navaabs-Website/precache-manifest.729b0c2f99d2fb35186295c5caabc908.js",
+    "service-worker.js": "/Navaabs-Website/service-worker.js",
+    "static/css/2.5a510433.chunk.css.map": "/Navaabs-Website/static/css/2.5a510433.chunk.css.map",
+    "static/css/main.ddb7d47b.chunk.css.map": "/Navaabs-Website/static/css/main.ddb7d47b.chunk.css.map",
+    "static/js/2.0f9d7087.chunk.js.LICENSE.txt": "/Navaabs-Website/static/js/2.0f9d7087.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/Navaabs-Website/static/media/1.36e0b7b5.jpg",
+    "static/media/10.jpg": "/Navaabs-Website/static/media/10.97c2e004.jpg",
+    "static/media/11.jpg": "/Navaabs-Website/static/media/11.44d57c7b.jpg",
+    "static/media/12.jpg": "/Navaabs-Website/static/media/12.dd7f032b.jpg",
+    "static/media/4.jpg": "/Navaabs-Website/static/media/4.fd7423dc.jpg",
+    "static/media/banner1.jpg": "/Navaabs-Website/static/media/banner1.f3959ac9.jpg",
+    "static/media/banner2.jpg": "/Navaabs-Website/static/media/banner2.40952877.jpg",
+    "static/media/banner3.jpg": "/Navaabs-Website/static/media/banner3.a1a9c5a0.jpg",
+    "static/media/banner6.jpg": "/Navaabs-Website/static/media/banner6.981f5115.jpg",
+    "static/media/banner7.jpg": "/Navaabs-Website/static/media/banner7.b8d45600.jpg",
+    "static/media/banner8.jpg": "/Navaabs-Website/static/media/banner8.66bf894b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5a27726.js",
+    "static/css/2.5a510433.chunk.css",
+    "static/js/2.0f9d7087.chunk.js",
+    "static/css/main.ddb7d47b.chunk.css",
+    "static/js/main.ca90bf54.chunk.js"
+  ]
+}
